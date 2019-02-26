@@ -1,0 +1,15 @@
+{
+  "name": "shivarajbakale",
+  "version": "1.0.0",
+  "description": "",
+  "main": "findingNemo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "perf_hooks": "0.0.1"
+  }
+}
